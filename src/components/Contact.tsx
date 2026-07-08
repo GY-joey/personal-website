@@ -27,7 +27,7 @@ const contactInfo = [
 
 export default function Contact() {
   return (
-    <section className="py-20 px-4 bg-gradient-to-br from-indigo-600 to-purple-700">
+    <section id="contact" className="py-20 px-4 bg-gradient-to-br from-indigo-600 to-purple-700">
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="text-4xl font-bold text-white mb-6">
           联系我

@@ -23,7 +23,7 @@ const awardsData = [
 
 export default function Awards() {
   return (
-    <section className="py-20 px-4 bg-gray-50 dark:bg-gray-800">
+    <section id="awards" className="py-20 px-4 bg-gray-50 dark:bg-gray-800">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-4xl font-bold text-center mb-12 text-gray-900 dark:text-white">
           荣誉奖项

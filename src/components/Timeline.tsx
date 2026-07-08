@@ -27,7 +27,7 @@ const timelineData = [
 
 export default function Timeline() {
   return (
-    <section className="py-20 px-4 bg-gray-50 dark:bg-gray-800">
+    <section id="timeline" className="py-20 px-4 bg-gray-50 dark:bg-gray-800">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-4xl font-bold text-center mb-12 text-gray-900 dark:text-white">
           成长历程
